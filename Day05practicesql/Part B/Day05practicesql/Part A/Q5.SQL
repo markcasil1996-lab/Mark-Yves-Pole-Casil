@@ -1,0 +1,3 @@
+-- SELECT *
+-- From sales
+-- WHERE category = 'Electronics' AND quantity > 1;

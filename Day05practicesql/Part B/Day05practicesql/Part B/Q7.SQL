@@ -1,0 +1,3 @@
+-- SELECT *
+-- FROM sales
+-- WHERE sale_date BETWEEN '2025-01-01' AND '2025-03-31';
