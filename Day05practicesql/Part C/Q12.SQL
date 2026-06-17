@@ -1,0 +1,4 @@
+SELECT * 
+FROM sales
+ORDER BY total_amount DESC
+LIMIT 5;
