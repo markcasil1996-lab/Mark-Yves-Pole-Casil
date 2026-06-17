@@ -1,4 +1,4 @@
-SELECT * 
-FROM sales
-WHERE region = 'NCR'
-ORDER BY category ASC, total_amount DESC;
+-- SELECT * 
+-- FROM sales
+-- WHERE region = 'NCR'
+-- ORDER BY category ASC, total_amount DESC;

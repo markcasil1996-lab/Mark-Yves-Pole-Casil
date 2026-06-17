@@ -1,3 +1,3 @@
-SELECT *
-FROM sales
-WHERE NOT category = "Accessories";
+-- SELECT *
+-- FROM sales
+-- WHERE NOT category = "Accessories";

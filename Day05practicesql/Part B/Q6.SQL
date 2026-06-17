@@ -1,3 +1,3 @@
-SELECT *
-FROM sales
-WHERE total_amount BETWEEN 2000 AND 10000;
+-- SELECT *
+-- FROM sales
+-- WHERE total_amount BETWEEN 2000 AND 10000;

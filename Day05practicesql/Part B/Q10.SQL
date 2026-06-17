@@ -1,3 +1,3 @@
 SELECT *
 FROM sales
-WHERE product_name LIKE 'USB%';
+WHERE product_name LIKE '%USB%';

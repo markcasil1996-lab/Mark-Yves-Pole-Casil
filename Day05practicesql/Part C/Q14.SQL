@@ -1,4 +1,4 @@
-SELECT *
-FROM sales
-ORDER by sale_date DESC
-LIMIT 10;
+-- SELECT *
+-- FROM sales
+-- ORDER by sale_date DESC
+-- LIMIT 10;

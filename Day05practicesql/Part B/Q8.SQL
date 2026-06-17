@@ -1,3 +1,3 @@
-SELECT *
-FROM sales
-WHERE city IN ('Makati', 'Quezon City', 'Pasig');
+-- SELECT *
+-- FROM sales
+-- WHERE city IN ('Makati', 'Quezon City', 'Pasig');

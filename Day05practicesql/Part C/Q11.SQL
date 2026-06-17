@@ -1,3 +1,3 @@
-SELECT *
-FROM sales
-ORDER BY total_amount DESC;
+-- SELECT *
+-- FROM sales
+-- ORDER BY total_amount DESC;

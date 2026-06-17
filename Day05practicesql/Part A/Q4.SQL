@@ -1,3 +1,3 @@
-SELECT *
-FROM sales
-WHERE payment_method = 'Credit Card' AND Region = 'Visayas';
+-- SELECT *
+-- FROM sales
+-- WHERE payment_method = 'Credit Card' AND Region = 'Visayas';
